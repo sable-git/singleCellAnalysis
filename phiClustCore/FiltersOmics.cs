@@ -217,7 +217,7 @@ namespace phiClustCore
 
             if (remData)
                 memoryFilteredData.Add(res);
-            //res.Save("Quantile");
+            res.Save("Quantile");
             return res;
         }
 

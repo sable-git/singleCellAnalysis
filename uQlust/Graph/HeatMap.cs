@@ -197,7 +197,7 @@ namespace Graph
         }
         private void HeatMap_ResizeEnd(object sender, EventArgs e)
         {
-            hCore.ResizeHeatMap(pictureBoxUpper.Size, pictureBoxLeft.Size, pictureBox6.Size)
+            hCore.ResizeHeatMap(pictureBoxUpper.Size, pictureBoxLeft.Size, pictureBox6.Size);
             if (!fullImage)
             {
                 hCore.draw.upperBitMap = new Bitmap(pictureBoxUpper.Width, pictureBoxUpper.Height);
