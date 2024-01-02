@@ -2,14 +2,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phiClust", "uQlust\phiClust.csproj", "{F9E579F7-9AE4-4A21-8BBD-262FFC829020}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sca", "uQlust\sca.csproj", "{F9E579F7-9AE4-4A21-8BBD-262FFC829020}"
 	ProjectSection(ProjectDependencies) = postProject
 		{71C7BB85-5D7B-470D-9BD0-A13E7D161F29} = {71C7BB85-5D7B-470D-9BD0-A13E7D161F29}
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phiClustCore", "phiClustCore\phiClustCore.csproj", "{71C7BB85-5D7B-470D-9BD0-A13E7D161F29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phiClustTerminal", "phiClustTerminal\phiClustTerminal.csproj", "{0B2149E9-3787-468B-AAB1-A96DFF9C5F4C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scaTerminal", "phiClustTerminal\scaTerminal.csproj", "{0B2149E9-3787-468B-AAB1-A96DFF9C5F4C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{0E9EAEB9-C9EB-428E-8963-0CDF84624658}"
 EndProject

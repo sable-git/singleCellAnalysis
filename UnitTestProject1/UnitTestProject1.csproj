@@ -74,9 +74,9 @@
       <Project>{71c7bb85-5d7b-470d-9bd0-a13e7d161f29}</Project>
       <Name>phiClustCore</Name>
     </ProjectReference>
-    <ProjectReference Include="..\uQlust\phiClust.csproj">
+    <ProjectReference Include="..\uQlust\sca.csproj">
       <Project>{f9e579f7-9ae4-4a21-8bbd-262ffc829020}</Project>
-      <Name>phiClust</Name>
+      <Name>sca</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
